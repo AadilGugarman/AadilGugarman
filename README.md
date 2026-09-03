@@ -110,8 +110,8 @@ My work sits at the intersection of thoughtful interface design and practical pr
 ## GitHub Activity
 
 <div align="center">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=AadilGugarman&show_icons=true&hide_border=true&bg_color=07111F&title_color=65E6C2&text_color=A8C5D3&icon_color=F3C978&rank_icon=github" alt="GitHub Stats" />
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadilGugarman&layout=compact&hide_border=true&bg_color=07111F&title_color=65E6C2&text_color=A8C5D3" alt="Top Languages" />
+	<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AadilGugarman&theme=github_dark" alt="GitHub Stats" />
+	<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AadilGugarman&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -119,7 +119,7 @@ My work sits at the intersection of thoughtful interface design and practical pr
 </div>
 
 <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=AadilGugarman&bg_color=07111F&color=A8C5D3&line=65E6C2&point=F3C978&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AadilGugarman&theme=github_dark" alt="Contribution Graph" width="95%" />
 </div>
 
 <div align="center">
