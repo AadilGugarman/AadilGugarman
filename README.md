@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./hero-banner-with-photo.gif" alt="Aadil Gugarman - Frontend Developer" width="960" />
+	<img src="./profile-visual-with-photo.svg" alt="Aadil Gugarman - Frontend Developer" width="960" />
 </div>
 
 <div align="center">
