@@ -1,7 +1,7 @@
 <table>
 	<tr>
 		<td width="25%" align="center" valign="middle">
-			<img src="./profile-photo-2.jpg" alt="Aadil Gugarman" width="190" />
+			<img src="./profile-avatar.gif" alt="Aadil Gugarman" width="190" />
 		</td>
 		<td width="75%" valign="middle">
 			<img src="./profile-visual.svg" alt="Aadil Gugarman - Frontend Developer" width="720" />
