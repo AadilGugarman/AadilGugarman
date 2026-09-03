@@ -1,13 +1,6 @@
-<table>
-	<tr>
-		<td width="25%" align="center" valign="middle">
-			<img src="./profile-avatar.gif" alt="Aadil Gugarman" width="190" />
-		</td>
-		<td width="75%" valign="middle">
-			<img src="./profile-visual.svg" alt="Aadil Gugarman - Frontend Developer" width="720" />
-		</td>
-	</tr>
-</table>
+<div align="center">
+	<img src="./hero-banner.gif" alt="Aadil Gugarman - Frontend Developer" width="960" />
+</div>
 
 <div align="center">
 	<a href="https://github.com/AadilGugarman"><img src="https://img.shields.io/badge/GitHub-AadilGugarman-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
